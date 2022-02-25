@@ -1228,5 +1228,6 @@ $(function () {
     }
   });
 });
+// I tried my best :(
 
 // vim: fdl=0
